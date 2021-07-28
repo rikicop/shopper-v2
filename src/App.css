@@ -29,7 +29,8 @@
 }
 
 .App-nav-item button:hover {
-    color: #999;
+    color: rgb(87, 126, 199);
+    font-weight: bolder;
 }
 .App-nav-item.selected {
     border-bottom-color: #ffaa3f;
